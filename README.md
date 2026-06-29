@@ -51,7 +51,3 @@ Underneath all these experiments lies a solid foundation in Vanilla JS, TypeScri
 ---
 
 <div align="center">
-
-## 🧰 Tech Arsenal
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,git,github,vscode,docker,linux&theme=radical" alt="My Tech Stack" />
-
