@@ -55,9 +55,3 @@ Underneath all these experiments lies a solid foundation in Vanilla JS, TypeScri
 ## 🧰 Tech Arsenal
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,git,github,vscode,docker,linux&theme=radical" alt="My Tech Stack" />
 
-## 📊 Digital Footprint
-<img src="https://github-readme-stats.vercel.app/api?username=Im-Hugo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="60%"/>
-
-<img src="https://komarev.com/ghpvc/?username=Im-Hugo&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" />
-
-</div>
