@@ -1,53 +1,248 @@
-# Hi, I'm Hugo 👋
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=58a6ff&center=true&vCenter=true&width=600&lines=Web+Developer;Bot+Architect;Extension+Crafter;Environment+Hacker;Open+Source+Explorer" alt="Typing SVG" />
+# Hi there, I'm [Your Name] 👋
 
-**I don't limit myself to one ecosystem. If it runs on the web, I build it.**
+### 🌐 Choose your language / Elige tu idioma / 选择语言 / زبان خود را انتخاب کنید
+
+**[🇬🇧 English](#-english) · [🇪🇸 Español](#-español) · [🇨🇳 中文](#-中文) · [🇮🇷 فارسی](#-فارسی)**
 
 </div>
 
 ---
 
-## 👨‍💻 Who Am I?
+## 🇬🇧 English
 
-I am a passionate Web Developer who refuses to be boxed into a single category. The digital world is a massive puzzle, and I enjoy putting the pieces together across completely different platforms. 
+### 👨‍💻 About Me
 
-I don't just write code; I try to understand the environment I am working in. Whether it is the strict sandbox of a browser extension, the asynchronous nature of a Telegram bot, or the hidden APIs of a desktop application like Obsidian, my goal is always the same: **Push the boundaries of what is possible with web technologies.**
+- 🔭 I'm currently working on **[Project Name]**
+- 🌱 I'm currently learning **[Technology/Framework]**
+- 👯 I'm looking to collaborate on **[Type of Project]**
+- 🤔 I'm looking for help with **[Topic]**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 How to reach me: **[your.email@example.com]**
+- ⚡ Fun fact: **[Something interesting about you]**
 
-## 🧠 My Philosophy
+### 🛠️ Languages & Tools
 
-Many developers stick to one stack: *"I am a React Developer"* or *"I am a Backend Engineer."* I believe that true engineering is environment-agnostic. 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker,linux,html,css" alt="Skills" />
+</p>
 
-If you deeply understand how JavaScript handles the Event Loop, how the DOM manipulates reality, or how HTTP requests flow through proxies, you can build almost anything, anywhere. I build Chrome Extensions today, and tomorrow I might be writing a complex state-management system for a note-taking app. It is all the same web, just different surfaces.
+### 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🏆 Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=6" alt="Trophies" />
+</p>
+
+### 📈 Contribution Graph
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+### 📌 Pinned Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **[Project 1](https://github.com/YOUR_USERNAME/project1)** | Short description here | [Demo](#) |
+| **[Project 2](https://github.com/YOUR_USERNAME/project2)** | Short description here | [Demo](#) |
+| **[Project 3](https://github.com/YOUR_USERNAME/project3)** | Short description here | [Demo](#) |
+
+### 📫 Connect with Me
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+**[⬆ Back to language menu](#-choose-your-language--elige-tu-idioma--选择语言--زبان-خود-را-انتخاب-کنید)**
 
 ---
 
-## 🛠️ What Do I Build?
+## 🇪🇸 Español
 
-### 🤖 Bots & Automation (Telegram)
-I view bots not just as simple responders, but as background web servers. I design Telegram bots that handle complex data flows, manage states, interact with external APIs, and process information asynchronously. For me, a bot is a piece of web infrastructure disguised as a chat interface.
+### 👨‍💻 Sobre Mí
 
-### 🧩 Browser Extensions (Chrome)
-The browser is the user's portal to the internet, and extensions allow us to rewrite that reality. I enjoy working with Chrome Extension Manifests, intercepting network requests, manipulating the DOM before the user even sees it, and creating tools that enhance the browsing experience. It requires a deep understanding of browser security, CORS, and CSP policies.
+- 🔭 Actualmente estoy trabajando en **[Nombre del Proyecto]**
+- 🌱 Actualmente estoy aprendiendo **[Tecnología/Framework]**
+- 👯 Busco colaborar en **[Tipo de Proyecto]**
+- 🤔 Busco ayuda con **[Tema]**
+- 💬 Pregúntame sobre **[Tu Especialidad]**
+- 📫 Cómo contactarme: **[tu.email@ejemplo.com]**
+- ⚡ Dato curioso: **[Algo interesante sobre ti]**
 
-### 📝 Deep Platform Integration (Plugins)
-This is where I have the most fun. Taking an application that wasn't designed for web execution and forcing it to run web code securely. 
+### 🛠️ Lenguajes y Herramientas
 
-*Example: [Brax](https://github.com/Im-Hugo/obsidian-brax)*
-Projects like Brax are examples of this philosophy in action: creating a fully isolated sandbox inside Obsidian, intercepting `document.cookie` and `localStorage` via `Object.defineProperty`, and managing a whole web lifecycle securely inside a Markdown file. It is pure web engineering masquerading as a plugin.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker,linux,html,css" alt="Habilidades" />
+</p>
 
-### 🌐 Core Web Technologies
-Underneath all these experiments lies a solid foundation in Vanilla JS, TypeScript, HTML5, and CSS3. I believe that before you can abstract away complexity with frameworks, you must understand the vanilla web.
+### 📊 Estadísticas de GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&locale=es" alt="Estadísticas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&locale=es" alt="Lenguajes principales" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Racha de GitHub" />
+</p>
+
+### 🏆 Trofeos
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=6" alt="Trofeos" />
+</p>
+
+### 📌 Proyectos Destacados
+
+| Proyecto | Descripción | Enlace |
+|---|---|---|
+| **[Proyecto 1](https://github.com/YOUR_USERNAME/project1)** | Breve descripción aquí | [Demo](#) |
+| **[Proyecto 2](https://github.com/YOUR_USERNAME/project2)** | Breve descripción aquí | [Demo](#) |
+| **[Proyecto 3](https://github.com/YOUR_USERNAME/project3)** | Breve descripción aquí | [Demo](#) |
+
+### 📫 Conecta Conmigo
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+**[⬆ Volver al menú de idiomas](#-choose-your-language--elige-tu-idioma--选择语言--زبان-خود-را-انتخاب-کنید)**
 
 ---
 
-## ⚙️ How I Work
+## 🇨🇳 中文
 
-1. **Deconstruct:** I first look at an environment and find its hidden APIs, limitations, and security boundaries.
-2. **Architect:** I plan how to inject web technologies into that environment safely and efficiently.
-3. **Build:** I write clean, heavily typed TypeScript (when possible) to ensure stability and scalability.
-4. **Break & Fix:** I push the limits until it breaks, reverse-engineer the crash, and figure out how to patch it.
+### 👨‍💻 关于我
+
+- 🔭 我目前正在做 **[项目名称]**
+- 🌱 我目前正在学习 **[技术/框架]**
+- 👯 我希望在 **[项目类型]** 方面进行合作
+- 🤔 我希望在 **[主题]** 方面得到帮助
+- 💬 欢迎向我咨询 **[你的专长]**
+- 📫 联系方式：**[your.email@example.com]**
+- ⚡ 趣味小知识：**[关于你的趣事]**
+
+### 🛠️ 编程语言与工具
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker,linux,html,css" alt="技能" />
+</p>
+
+### 📊 GitHub 统计
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="常用语言" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub 连续贡献" />
+</p>
+
+### 🏆 成就奖杯
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=6" alt="奖杯" />
+</p>
+
+### 📌 置顶项目
+
+| 项目 | 描述 | 链接 |
+|---|---|---|
+| **[项目 1](https://github.com/YOUR_USERNAME/project1)** | 简短描述 | [演示](#) |
+| **[项目 2](https://github.com/YOUR_USERNAME/project2)** | 简短描述 | [演示](#) |
+| **[项目 3](https://github.com/YOUR_USERNAME/project3)** | 简短描述 | [演示](#) |
+
+### 📫 联系我
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+**[⬆ 返回语言菜单](#-choose-your-language--elige-tu-idioma--选择语言--زبان-خود-را-انتخاب-کنید)**
+
+---
+
+## 🇮🇷 فارسی
+
+<div dir="rtl" align="right">
+
+### 👨‍💻 درباره من
+
+- 🔭 در حال حاضر روی **[نام پروژه]** کار می‌کنم
+- 🌱 در حال یادگیری **[تکنولوژی/فریم‌ورک]** هستم
+- 👯 به دنبال همکاری در **[نوع پروژه]** هستم
+- 🤔 به کمک در زمینه **[موضوع]** نیاز دارم
+- 💬 درباره **[تخصص شما]** از من بپرسید
+- 📫 راه ارتباطی: **[your.email@example.com]**
+- ⚡ یک نکته جالب: **[چیزی جالب درباره خودتان]**
+
+### 🛠️ زبان‌ها و ابزارها
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker,linux,html,css" alt="مهارت‌ها" />
+</p>
+
+### 📊 آمار گیت‌هاب
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="آمار گیت‌هاب" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="زبان‌های برتر" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="استریک گیت‌هاب" />
+</p>
+
+### 🏆 جوایز
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=6" alt="جوایز" />
+</p>
+
+### 📌 پروژه‌های منتخب
+
+| پروژه | توضیحات | لینک |
+|---|---|---|
+| **[پروژه ۱](https://github.com/YOUR_USERNAME/project1)** | توضیح کوتاه اینجا | [دمو](#) |
+| **[پروژه ۲](https://github.com/YOUR_USERNAME/project2)** | توضیح کوتاه اینجا | [دمو](#) |
+| **[پروژه ۳](https://github.com/YOUR_USERNAME/project3)** | توضیح کوتاه اینجا | [دمو](#) |
+
+### 📫 ارتباط با من
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/ایمیل-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+**[⬆ بازگشت به منوی زبان](#-choose-your-language--elige-tu-idioma--选择语言--زبان-خود-را-انتخاب-کنید)**
+
+</div>
 
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+</div>
