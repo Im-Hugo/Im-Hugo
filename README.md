@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there,%20I'm%20Hugo%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+# Hi there, I'm Hugo 👋
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Obsidian+Plugin+Builder;Linux+Enthusiast+%F0%9F%90%A7;Always+tinkering+with+something&font=Fira+Code&center=true&width=500&height=40&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 
@@ -70,7 +70,5 @@ Control, transparency, and the satisfaction of understanding what's actually hap
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Im-hugo&color=blueviolet&style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="footer banner" />
 
 </div>
